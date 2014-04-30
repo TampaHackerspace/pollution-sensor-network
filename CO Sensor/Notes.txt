@@ -1,0 +1,5 @@
+Install drivers for the DigiX from:
+http://digistump.com/wiki/digix/tutorials/software
+
+Setup WiFi on the DigiX:
+http://digistump.com/wiki/digix/tutorials/wifi
